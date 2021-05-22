@@ -1,0 +1,1 @@
+# Sayinin-asal-olup-olmamasini-yoklamak
